@@ -1,5 +1,7 @@
 I am FrontEnd Web Designer.
-Made with ❤.
+
+  
+  Made with ❤.
 
 My Skill Set.
 1. CSS 
@@ -11,7 +13,7 @@ My Skill Set.
 7. ReactMDL
 8. NODEJS(Beginner)
 
-Learning to Become FULL STACK IN REACT.
+Learning to Become Full Stack Web Developer in React.
 
 
 
